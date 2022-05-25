@@ -6,3 +6,11 @@ Welcome to Colin Tindle's GitHub profile
 - 📫 How to reach me: Slack
 - 🙅 Pronouns: He/Him
 - 🐈‍⬛ Fun fact: I have a cat called Neeko (like the Japanese word Neko which means "cat")
+
+#### Stuff I work with at FanDuel
+
+- TypeScript
+- React Native
+- Redux
+- NodeJS
+- AngularJS (apparently)
