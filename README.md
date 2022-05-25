@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 🌊
 
 Welcome to Colin Tindle's GitHub profile
 
