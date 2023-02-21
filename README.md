@@ -22,4 +22,4 @@ Welcome to Colin Tindle's FanDuel GitHub profile. My personal profile is [unders
 - Next.js, Astro, Express
 - Canvas, including with P5.js
 
-My portfolio, in the style of Atari's graphical is at [https://messy.cloud](https://messy.cloud). It shows some of the web-based games/apps I've made over the years, mostly to allow me to expiriment and learn new things. 
+My portfolio, in the style of Atari's graphical OS is at [https://messy.cloud](https://messy.cloud). It shows some of the web-based games/apps I've made over the years, mostly to allow me to expiriment and learn new things. 
