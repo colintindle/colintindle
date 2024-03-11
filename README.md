@@ -5,7 +5,7 @@ Welcome to Colin Tindle's FanDuel GitHub profile. My personal profile is [unders
 - 🧑‍💻 Ask me about: CSS, sneaky web browser issues or the web platform in general
 - 📫 How to reach me: Slack
 - 🙅 Pronouns: He/Him
-- 🐈‍⬛ Fun fact: I have a cat called Neeko (like the Japanese word Neko which means "cat")
+- 🐈‍⬛ Fun fact: I had a cat called Neeko (like the Japanese word Neko which means "cat")
 
 #### What I work with at FanDuel
 
@@ -20,6 +20,7 @@ Welcome to Colin Tindle's FanDuel GitHub profile. My personal profile is [unders
 - HTML
 - CSS, including Tailwind; also confident with SASS
 - Next.js, Astro, Express
+- Discord.js; I maintain a custom Discord bot. 
 - Canvas, including with P5.js
 
 My portfolio, in the style of Atari's graphical OS is at [https://messy.cloud](https://messy.cloud). It shows some of the web-based games/apps I've made over the years, mostly to allow me to expiriment and learn new things. 
